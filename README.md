@@ -1,5 +1,5 @@
-# codechallenges
-Interview code challenges
+# Code Challenges
+Interview Code Challenges
 
 
 # BGMP JS Exercise
